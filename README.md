@@ -1,2 +1,1 @@
-# .github
-Organization profile page
+# Insight Architectures
